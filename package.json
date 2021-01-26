@@ -1,6 +1,6 @@
 {
    "private": true,
    "name": "vimperfect",
-   "workspaces": ["client"],
+   "workspaces": ["client", "server"],
    "scripts": {}
 }
