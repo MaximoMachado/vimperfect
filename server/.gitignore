@@ -1,4 +1,4 @@
 /node_modules
 
-/pre-start/*.env
+/src/pre-start/env/
 .env
